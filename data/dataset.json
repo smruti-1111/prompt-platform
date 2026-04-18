@@ -1,0 +1,8 @@
+[
+  {"input": "My internet is not working", "expected": "technical"},
+  {"input": "Website is very slow", "expected": "technical"},
+  {"input": "I was overcharged this month", "expected": "billing"},
+  {"input": "Cancel my subscription", "expected": "billing"},
+  {"input": "How do I reset my password?", "expected": "general"},
+  {"input": "Where can I update my profile?", "expected": "general"}
+]
