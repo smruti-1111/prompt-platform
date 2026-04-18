@@ -1,6 +1,6 @@
 # Prompt Evaluation Platform (Local LLM)
 
-A FastAPI-based platform to design, version, and evaluate prompts using a local LLM (Phi-3 via Ollama). It focuses on improving reliability of structured outputs for classification tasks.
+A modular platform to design, version, and evaluate prompts using a local LLM (Phi-3 via Ollama). It focuses on improving reliability of structured outputs for classification tasks.
 
 ## 🚀 Features
 
